@@ -1,0 +1,45 @@
+header {
+    padding: 40px;
+    background: #ebebeb;
+    text-align: center;
+    display: block;
+    color: grey;
+}
+nav {
+    padding: 35px;
+    background: #ebebeb;
+    text-align: center;
+    display: block;
+    color: grey;
+}
+#section {
+    background: #ebebeb;
+    color: grey;
+    float: left;
+    padding:20px 40px 80px 40 px;
+}
+aside {
+    background: #ebebeb;
+    color: grey;
+    float: right;
+
+}
+article {
+    color: white;
+    background: #777;
+    padding: 10px 40px 90px 40px;
+}
+
+h1, h2, h23 {
+    display: inline-block;
+    background: #ebebeb;
+    color: grey;
+
+}
+footer {
+    background: #ebebeb;
+    color: grey;
+    padding: 25px;
+    margin-top: 20px;
+
+}
