@@ -10,6 +10,7 @@ body {
     background: #777;
     width: 960px;
     font-size: 18px;
+    align-content: center;
 }
 nav {
     padding: 35px;
@@ -20,25 +21,47 @@ nav {
 #section {
     background: #ebebeb;
     float: left;
-    padding:20px 40px 80px 40 px;
+    padding:20px 40px 80px 40px;
+    height: 450px;
     width: 495 px;
+    text-align: center;
+    margin-right: 20px;
 }
-aside {
+#aside {
     background: #ebebeb;
     float: right;
     width: 465px;
+    text-align: center;
+    color: grey;
+    height: 400px;
 
 }
 article {
     color: white;
     background: #777;
-    padding: 10px 40px 90px 40px;
+    width: 485px;
+    text-align: center;
+    height:370px;
 }
 
-h1, h2, h3 {
-    display: inline-block;
+#middle {
+    margin-top: 20px;
+}
+
+h1 {
     background: #ebebeb;
-    padding: 15px
+    padding: 15px;
+    text-align: center;
+    color: grey;
+    width: 460px;
+
+}
+p{
+    text-align: center;
+    background: #ebebeb;
+    color:grey;
+    width: 460px;
+    padding: 15px;
 }
 footer {
     background: #ebebeb;
