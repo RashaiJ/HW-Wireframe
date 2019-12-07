@@ -57,14 +57,20 @@ h1 {
     background: #ebebeb;
     text-align: center;
     color: grey;
-    width: 460px;
+    width: 400px;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 
 }
 p{
     text-align: center;
     background: #ebebeb;
     color:grey;
-    width: 460px;
+    width: 400px;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
     
 }
 footer {
